@@ -4,7 +4,7 @@ I'm a software developer specializing in iOS sideloading, Swift, and general cod
 
 - 🔭 I’m currently working on: [insert project name]
 - 🌱 I’m currently learning: JavaScript and PHP
-- 💬 Ask me about: iOS sideloading, Swift, or anything related to programming
+- 💬 Ask me about: iOS sideloading, Swift, or Anything Related To IOS in General I May Or May Not Be Able To Help You
 
 ### GitHub Stats
 
@@ -18,8 +18,8 @@ I'm a software developer specializing in iOS sideloading, Swift, and general cod
 | HTML     | Good        |
 | CSS      | Good        |
 | JavaScript| Learning   |
-| Python   | Meh         |
-| PHP      | Learning   |
+| Python   | Good'ntu     |
+| PHP      | Learning    |
 
 ### Contact Me
 
