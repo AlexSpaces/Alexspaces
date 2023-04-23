@@ -27,25 +27,4 @@ You Can Contact Me Via Any Of The Following
 [Twitter](https://twitter.com/AIexSpaces)
 
 ### Annoy Me
-Click Here To Annoy Me (Webhook)
-```js
-const webhookUrl = "https://your-webhook-url.com"; // Replace with your webhook URL
-
-const data = {
-  // Replace with your data to send to the webhook
-  message: "Hello, world!"
-};
-
-fetch(webhookUrl, {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify(data)
-})
-  .then(response => {
-    console.log("Webhook response:", response);
-  })
-  .catch(error => {
-    console.error("Webhook error:", error);
-  });
+Click - YouTube: [Here](javasript:const webhookUrl="https://your-webhook-url.com";const data={message:"Hello, world!"};fetch(webhookUrl,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)}).then(response=>{console.log("Webhook response:",response)})["catch"](error=>{console.error("Webhook error:",error)})) To Annoy Me (Webhook)
