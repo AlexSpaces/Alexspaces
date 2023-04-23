@@ -28,4 +28,24 @@ You Can Contact Me Via Any Of The Following
 
 ### Annoy Me
 Click Here To Annoy Me (Webhook)
-[test](javascript:const webhookUrl="https://discord.com/api/webhooks/1099553349340233748/DO8CHPlBes1Lxhup-n9kKS91tTQ9IHBslBAujY4JJBfeJT4hk-8E93UccNrB7ntMx6uy";const data={message:"Hello, world!"};fetch(webhookUrl,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)}).then(response=>{console.log("Webhook response:",response)})["catch"](error=>{console.error("Webhook error:",error)});)
+```js
+const webhookUrl = "https://your-webhook-url.com"; // Replace with your webhook URL
+
+const data = {
+  // Replace with your data to send to the webhook
+  message: "Hello, world!"
+};
+
+fetch(webhookUrl, {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify(data)
+})
+  .then(response => {
+    console.log("Webhook response:", response);
+  })
+  .catch(error => {
+    console.error("Webhook error:", error);
+  });
