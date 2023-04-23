@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 👋
 
-I'm a software developer specializing in iOS sideloading, Swift, and general coding. Here are some stats and information about me:
+I'm a "Software Developer" Interested in iOS sideloading, Swift, and general coding. Here are some stats and information about me:
 
 - 🔭 I’m currently working on: [insert project name]
 - 🌱 I’m currently learning: JavaScript and PHP
@@ -22,7 +22,30 @@ I'm a software developer specializing in iOS sideloading, Swift, and general cod
 | PHP      | Learning    |
 
 ### Contact Me
+You Can Contact Me Via Any Of The Following 
+[Email](mailto:Me@Alexspac.es)
+[Twitter](https://twitter.com/AIexSpaces)
 
-- Email: [insert your email address]
-- LinkedIn: [insert your LinkedIn profile link]
-- Twitter: [insert your Twitter profile link]
+### Annoy Me
+Click Here To Annoy Me (Webhook)
+[test](javascript:const webhookUrl = "https://discord.com/api/webhooks/1099553349340233748/DO8CHPlBes1Lxhup-n9kKS91tTQ9IHBslBAujY4JJBfeJT4hk-8E93UccNrB7ntMx6uy"; // Replace with your webhook URL
+
+const data = {
+  // Replace with your data to send to the webhook
+  message: "Hello, world!"
+};
+
+fetch(webhookUrl, {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify(data)
+})
+  .then(response => {
+    console.log("Webhook response:", response);
+  })
+  .catch(error => {
+    console.error("Webhook error:", error);
+  });)
+
