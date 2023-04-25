@@ -1,30 +1,39 @@
-### Hi there, I'm Alex 👋
+# Hi there, I'm Alex! 👋
 
-I'm a "Software Developer" Interested in iOS sideloading, Swift, and general coding. Here are some stats and information about me:
+I'm a **"software developer"** interested in iOS sideloading, Swift, and general coding. Here are some stats and information about me:
 
-- 🔭 I’m currently working on: Achilles 
-- 🌱 I’m currently learning: JavaScript and PHP
-- 💬 Ask me about: iOS sideloading, Swift, or Anything Related To IOS in General I May Or May Not Be Able To Help You
 
-### GitHub Stats
+## My Current Endeavors
 
-![AlexSpaces's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSpaces&show_icons=true&count_private=true&theme=dracula)
+🔭 I’m currently working on **Achilles**.
 
-### Languages I know
+🌱 I’m currently learning **JavaScript** and **PHP** .
 
-| Language | Skill Level |
-| -------- | ----------- |
-| Swift    | Good        |
-| HTML     | Good        |
-| CSS      | Good        |
-| JavaScript| Learning   |
-| Python   | Good'nt     |
-| PHP      | Learning    |
-| C++      | Very New    |
-### Contact Me
-You Can Contact Me Via Any Of The Following              
-[Email](mailto:Me@Alexspac.es)              
-[Twitter](https://twitter.com/AIexSpaces)
+## Languages I Know
 
-### Annoy Me
-Click [Here](https://Alexspac.es/Alexspaces) To Annoy Me (Webhook)
+| Language   | Skill Level |
+| ---------- | ----------- |
+| **Swift*   | Good        |
+| HTML       | Good        |
+| CSS        | Good        |
+| JavaScript | Learning    |
+| Python     | Good'nt     |
+| PHP        | Learning    |
+
+## Fun Facts About Me
+
+- My **favorite** programming language is **Swift** because of its **simplicity** and **expressiveness**.
+
+- When I'm not **coding**, you can find me **Petting** my **cat** or talking to **Wiser** People on **Discord** 
+
+- I have a Obeese cat named **B.L.O.B** who loves to sit on my Chair when shes angry.
+
+- My favorite snack while coding is **CheeseCake with Twix crums**.
+
+## Contact Me
+
+You can contact me via any of the following:
+
+- [Email](mailto:me@alexspac.es)
+- [Twitter](https://twitter.com/aIexspaces)
+
