@@ -1,10 +1,21 @@
 # Hi there, I'm Alex! 👋
 
 I'm a **"software developer"** interested in iOS sideloading, Swift, and general coding. Here are some stats and information about me:
+
+
+
 ![GitHub stats with private contributions](https://github-readme-stats.vercel.app/api?username=Alexspaces&show_icons=true&count_private=true&theme=radical)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexspaces&layout=compact&theme=radical)
+
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alexspaces&theme=radical)
+
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexspaces&theme=onedark)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Alexspaces&color=blueviolet)
 
 
