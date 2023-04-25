@@ -35,7 +35,7 @@ I'm a **"software developer"** interested in iOS sideloading, Swift, and general
 | JavaScript | Learning    |
 | Python     | Good'nt     |
 | PHP        | Learning    |
-
+| C++        | New As Shit |
 ## Fun Facts About Me
 
 - My **favorite** programming language is **Swift** because of its **simplicity** and **expressiveness**.
