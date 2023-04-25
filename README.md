@@ -20,7 +20,7 @@ I'm a "Software Developer" Interested in iOS sideloading, Swift, and general cod
 | JavaScript| Learning   |
 | Python   | Good'nt     |
 | PHP      | Learning    |
-
+| C++      | Very New    |
 ### Contact Me
 You Can Contact Me Via Any Of The Following              
 [Email](mailto:Me@Alexspac.es)              
