@@ -2,7 +2,7 @@
 
 I'm a "Software Developer" Interested in iOS sideloading, Swift, and general coding. Here are some stats and information about me:
 
-- 🔭 I’m currently working on: [insert project name]
+- 🔭 I’m currently working on: Achilles 
 - 🌱 I’m currently learning: JavaScript and PHP
 - 💬 Ask me about: iOS sideloading, Swift, or Anything Related To IOS in General I May Or May Not Be Able To Help You
 
@@ -18,12 +18,12 @@ I'm a "Software Developer" Interested in iOS sideloading, Swift, and general cod
 | HTML     | Good        |
 | CSS      | Good        |
 | JavaScript| Learning   |
-| Python   | Good'ntu     |
+| Python   | Good'nt     |
 | PHP      | Learning    |
 
 ### Contact Me
-You Can Contact Me Via Any Of The Following 
-[Email](mailto:Me@Alexspac.es)
+You Can Contact Me Via Any Of The Following              
+[Email](mailto:Me@Alexspac.es)              
 [Twitter](https://twitter.com/AIexSpaces)
 
 ### Annoy Me
