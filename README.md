@@ -35,16 +35,6 @@ I'm a **"software developer"** interested in iOS sideloading, Swift, and general
 | JavaScript | Learning    |
 | Python     | Good'nt     |
 | PHP        | Learning    |
-| C++        | New As Shit |
-## Fun Facts About Me
-
-- My **favorite** programming language is **Swift** because of its **simplicity** and **expressiveness**.
-
-- When I'm not **coding**, you can find me **Petting** my **cat** or talking to **Wiser** People on **Discord** 
-
-- I have a Obeese cat named **B.L.O.B** who loves to sit on my Chair when shes angry.
-
-- My favorite snack while coding is **CheeseCake with Twix crums**.
 
 ## Contact Me
 
