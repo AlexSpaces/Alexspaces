@@ -34,7 +34,7 @@ I'm a **"software developer"** interested in iOS sideloading, Swift, and general
 | CSS        | Good        |
 | JavaScript | Learning    |
 | Python     | Good'nt     |
-| PHP        | Learning    |
+| PHP        | Pain        |
 
 ## Contact Me
 
