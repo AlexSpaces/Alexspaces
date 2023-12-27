@@ -10,6 +10,6 @@ This is difficult, ill be **fine**.
 ## Current Projects
 
 Learing PHP off and on
-COnverting Scratch code to JS Then C
+Converting Scratch code to JS Then C for a friend 
 
 
