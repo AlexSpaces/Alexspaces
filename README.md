@@ -9,7 +9,7 @@ This is difficult, ill be **fine**.
 
 ## Current Projects
 
-Learing PHP off and on
+Learning PHP off and on
 Converting Scratch code to JS Then C for a friend 
 
 
